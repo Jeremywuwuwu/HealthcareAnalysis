@@ -1,7 +1,7 @@
-# Comprehensive Analysis on a Healthcare Dataset with R
+# Practice Analysis on a Healthcare Dataset with R
 
 ## Overview
-A full statistical analysis of 55,500 patient records, working from exploratory visualization through formal hypothesis testing and into regression modeling. The central question was which factors drive patient billing amount, and whether any of them could be targeted to reduce costs.
+A statistical analysis of 55,500 patient records, working from exploratory visualization through formal hypothesis testing and into regression modeling. The central question was which factors drive patient billing amount, and whether any of them could be targeted to reduce costs.
 
 The answer turned out to be none of them, and understanding why became the most interesting result of the project.
 
